@@ -1,10 +1,11 @@
-@import url('https://fonts.googleapis.com/css?family=Dosis:600|Noto+Sans:700|Oxygen:700');
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans:700|Oxygen:700');
 @import url('https://fonts.googleapis.com/css?family=Amarante');
+@import url('https://fonts.googleapis.com/css?family=Oswald:300,400,700');
 
 /*font-family: 'Noto Sans', sans-serif;
-font-family: 'Dosis', sans-serif;
 font-family: 'Oxygen', sans-serif;
-font-family: 'Amarante', cursive;*/
+font-family: 'Amarante', cursive;
+font-family: 'Oswald', sans-serif;*/
 
 body {
         /*background-image: url(../img/Background.jpg);*/
