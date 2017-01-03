@@ -19,11 +19,12 @@ h1 {
     font-family: 'Oxygen', sans-serif;
 }
 
-h2 {
+.menuText {
     font-family:'Amarante', cursive;
     color: rgba(235,235,235,0.98);
     font-size: 300px;
 }
+
 .containeri {
     /*background-color: rgba(249,175,99,0.35);*/
     background-color: rgba(1,1,1,0.45);
