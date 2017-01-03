@@ -19,6 +19,9 @@ h1 {
     font-family: 'Oxygen', sans-serif;
 }
 
+h2 {
+    font-family: 'Amarante', cursive;
+}
 .containeri {
     /*background-color: rgba(249,175,99,0.35);*/
     background-color: rgba(1,1,1,0.45);
