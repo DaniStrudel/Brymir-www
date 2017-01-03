@@ -1,0 +1,15 @@
+{
+  "name": "brymir_www",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniela Schenk, Pasi Talvitie",
+  "license": "ISC",
+  "dependencies": {
+    "basix-js-fw": "0.0.8",
+    "bootstrap": "3.3.7"
+  }
+}

@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css?family=Dosis:600|Noto+Sans:700|Oxygen:700');
+
+/*font-family: 'Noto Sans', sans-serif;
+font-family: 'Dosis', sans-serif;
+font-family: 'Oxygen', sans-serif;*/
+
+body {
+        /*background-image: url(../img/Background.jpg);*/
+  background: url(../img/Background.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+h1 {
+    font-family: 'Oxygen', sans-serif;
+}
+
+.containeri {
+    /*background-color: rgba(249,175,99,0.35);*/
+    background-color: rgba(1,1,1,0.45);
+    min-height: 1000px;
+}
+
+.headeri {
+    background: url(../img/Header_Image.jpg);
+    min-height: 448px;
+}
+
+.mainContent {
+    background-color: rgba(10, 10, 10, 0.5);
+    color: rgba(235,235,235,0.98);
+    padding: 15px;
+}
+.socialContent {
+    color: rgba(235,235,235,0.98);
+}
+
+.spotifyBox {
+    
+}
+
+.theMargin {
+    margin: 10px 0 10px 0;
+}
+.noPadding {
+    padding: 0;
+}
+
+/*.logo {
+    width: 725px;
+    height: 355px;
+}*/
