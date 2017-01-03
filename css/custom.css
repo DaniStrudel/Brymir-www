@@ -21,6 +21,8 @@ h1 {
 
 h2 {
     font-family: 'Amarante', cursive;
+    color: rgba(10, 10, 10, 1);
+    font-size: 100px;
 }
 .containeri {
     /*background-color: rgba(249,175,99,0.35);*/
