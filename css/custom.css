@@ -31,6 +31,7 @@ h1 {
     background-color: rgba(10, 10, 10, 0.5);
     color: rgba(235,235,235,0.98);
     padding: 15px;
+    height: 380px;
 }
 .socialContent {
     color: rgba(235,235,235,0.98);
