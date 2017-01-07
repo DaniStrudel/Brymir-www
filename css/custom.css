@@ -14,14 +14,9 @@ font-family: 'Oswald', sans-serif;*/
     margin:0;
     padding:0;
     text-align:center;
+    display: inline;
 }
-.navLi{
-    display:inline;
-}
-.nava{
-    display:inline;
-    padding:10px;
-}
+
 
 
 body {
