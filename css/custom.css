@@ -137,6 +137,20 @@ ul.rig li h3 {
 ul.rig.columns-3 li {
     width: 30.83%;
 }
+
+@media (max-width: 480px) {
+    ul.grid-nav li {
+        display: block;
+        margin: 0 0 5px;
+    }
+    ul.grid-nav li a {
+        display: block;
+    }
+    ul.rig li {
+        width: 100% !important;
+        margin: 0 0 20px;
+    }
+}
 /*.logo {
     width: 725px;
     height: 355px;
