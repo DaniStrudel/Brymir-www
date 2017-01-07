@@ -73,7 +73,7 @@ h1 {
     color: rgba(235,235,235,0.98);
 }
 
-.theShadow{
+.theShadow {
     box-shadow: 0 0 15px 0 rgba(0, 0, 0, 0.7);
 }
 
@@ -82,17 +82,17 @@ h1 {
 }
 
 .theBiggerMargin {
-    margin: 60px 0 10px 0;
+    margin: 30px 0 10px 0;
 }
 .noPadding {
     padding: 0;
 }
 
-.BandImage{
+.BandImage {
    max-height: 550px; 
 }
 
-.memberImage{
+.memberImage {
     max-height: 300px;
 }
 
