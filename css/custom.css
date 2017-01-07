@@ -46,6 +46,15 @@ h1 {
     font-family: 'Oxygen', sans-serif;
 }
 
+h2{
+    font-family: 'Oswald', sans-serif;
+    text-align: center;
+}
+
+p{
+    font-family: 'Oswald', sans-serif;
+    text-align: center;
+}
 
 .containeri {
     /*background-color: rgba(249,175,99,0.35);*/
@@ -82,7 +91,7 @@ h1 {
 }
 
 .theBiggerMargin {
-    margin: 30px 0 10px 0;
+    margin: 60px 0 10px 0;
 }
 .noPadding {
     padding: 0;
@@ -95,7 +104,6 @@ h1 {
 .memberImage {
     max-height: 300px;
 }
-
 
 .fbPushdown {
     margin: 69px 0 0 0;
