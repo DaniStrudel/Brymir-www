@@ -41,16 +41,17 @@ body {
   -o-background-size: cover;
   background-size: cover;
 }
+
 h1 {
     font-family: 'Oxygen', sans-serif;
 }
 
-}
 
 .containeri {
     /*background-color: rgba(249,175,99,0.35);*/
     background-color: rgba(1,1,1,0.45);
     min-height: 1000px;
+    z-index: 1
 }
 
 .headeri {
@@ -65,6 +66,7 @@ h1 {
     padding: 15px;
     height: 380px;
 }
+
 .socialContent {
     color: rgba(235,235,235,0.98);
 }
