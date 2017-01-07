@@ -73,8 +73,8 @@ h1 {
     color: rgba(235,235,235,0.98);
 }
 
-.spotifyBox {
-    
+.theShadow{
+    box-shadow: 0 0 15px 1px rgba(0, 0, 0, 0.7);
 }
 
 .theMargin {
