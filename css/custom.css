@@ -57,6 +57,7 @@ h1 {
 
 .headeri {
     background: url(../img/Header_med.jpg);
+    box-shadow: 0 0 30px 1px rgba(0, 0, 0, 0.7);
     min-height: 448px;
     z-index: -1;
     background-origin: content-box;
