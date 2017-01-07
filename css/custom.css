@@ -7,10 +7,8 @@ font-family: 'Oxygen', sans-serif;
 font-family: 'Amarante', cursive;
 font-family: 'Oswald', sans-serif;*/
 
-.nav{
-    border:1px solid #ccc;
-    border-width:1px 0;
-    list-style:none;
+.ul{
+    list-style-type:none;
     margin:0;
     padding:0;
     text-align:center;
