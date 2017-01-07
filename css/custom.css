@@ -7,20 +7,15 @@ font-family: 'Oxygen', sans-serif;
 font-family: 'Amarante', cursive;
 font-family: 'Oswald', sans-serif;*/
 
-.nav{
-    list-style-type:none;
-    margin:0;
-    padding:0;
-    text-align:center;
+
+.ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
 }
 
-.nav li{
+.li {
     display: inline;
-}
-
-.nav a{
-    display: inline-block;
-    padding: 10px;
 }
 
 body {
