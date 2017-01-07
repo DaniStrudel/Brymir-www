@@ -98,13 +98,12 @@ h1 {
 ul.rig {
     list-style: none;
     font-size: 0px;
-    margin-left: -2.5%;
 }
 
 ul.rig li {
     display: inline-block;
     padding: 10px;
-    margin: 0 0 2.5% 2.5%;
+    margin: 30px 0 2.5% 2.5%;
     font-size: 16px;
     font-size: 1rem;
     vertical-align: top;
