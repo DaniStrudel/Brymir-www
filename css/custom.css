@@ -46,16 +46,6 @@ h1 {
     font-family: 'Oxygen', sans-serif;
 }
 
-h2{
-    font-family: 'Oswald', sans-serif;
-    text-align: center;
-}
-
-p{
-    font-family: 'Oswald', sans-serif;
-    text-align: center;
-}
-
 .containeri {
     /*background-color: rgba(249,175,99,0.35);*/
     background-color: rgba(1,1,1,0.45);
@@ -101,14 +91,42 @@ p{
    max-height: 550px; 
 }
 
-.memberImage {
-    max-height: 300px;
-}
-
 .fbPushdown {
     margin: 69px 0 0 0;
 }
 
+ul.rig {
+    list-style: none;
+    font-size: 0px;
+}
+
+ul.rig li {
+    display: inline-block;
+    padding: 10px;
+    font-size: 16px;
+    font-size: 1rem;
+    vertical-align: top;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+}
+
+ul.rig li img {
+    margin: 0 0 10px;
+    height: auto;
+    max-width: 100%
+}
+
+ul.rig li h2 {
+    font-family: 'Oswald', sans-serif;
+    text-align: center;
+    margin: 0 0 5px;
+}
+
+ul.rig li p {
+    font-family: 'Oswald', sans-serif;
+    text-align: center;
+}
 
 /*.logo {
     width: 725px;
