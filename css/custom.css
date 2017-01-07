@@ -7,12 +7,20 @@ font-family: 'Oxygen', sans-serif;
 font-family: 'Amarante', cursive;
 font-family: 'Oswald', sans-serif;*/
 
-.ul{
+.nav{
     list-style-type:none;
     margin:0;
     padding:0;
     text-align:center;
+}
+
+.nav li{
     display: inline;
+}
+
+.nav a{
+    display: inline-block;
+    padding: 10px;
 }
 
 body {
@@ -31,6 +39,7 @@ h1 {
     font-family:'Amarante', cursive;
     color: rgba(235,235,235,0.98);
     font-size: 30px;
+    font-style: bold;
 }
 
 .containeri {
