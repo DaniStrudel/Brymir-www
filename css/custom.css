@@ -7,7 +7,7 @@ font-family: 'Oxygen', sans-serif;
 font-family: 'Amarante', cursive;
 font-family: 'Oswald', sans-serif;*/
 
-
+/* Header list */
 .ul {
     list-style-type: none;
     margin: 0;
@@ -32,6 +32,7 @@ font-family: 'Oswald', sans-serif;*/
     color: rgba(235, 235, 235, 0.8);
     text-decoration: none;
 }
+/* Header list */
 
 body {
         /*background-image: url(../img/Background.jpg);*/
@@ -43,14 +44,15 @@ body {
 }
 
 h1 {
-    font-family: 'Oxygen', sans-serif;
+    font-family: 'Oswald', sans-serif;
 }
 
 .containeri {
     /*background-color: rgba(249,175,99,0.35);*/
     background-color: rgba(1,1,1,0.45);
     min-height: 1000px;
-    z-index: 1
+    z-index: 1;
+    box-shadow: 0 0 30px 0 rgba(0, 0, 0, 0.9);
 }
 
 .headeri {
@@ -95,6 +97,7 @@ h1 {
     margin: 69px 0 0 0;
 }
 
+/* Image Grid band page */
 ul.rig {
     list-style: none;
     font-size: 0px;
@@ -151,6 +154,7 @@ ul.rig.columns-3 li {
         margin: 30px 0 20px;
     }
 }
+/*Image Grid Band Page */
 /*.logo {
     width: 725px;
     height: 355px;
