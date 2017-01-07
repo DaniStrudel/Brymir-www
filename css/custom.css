@@ -58,7 +58,7 @@ h1 {
     background: url(../img/Header_Large.jpg);
     min-height: 448px;
     z-index: -1;
-    object-fit: fill
+    object-fit: cover;
 }
 
 .mainContent {
