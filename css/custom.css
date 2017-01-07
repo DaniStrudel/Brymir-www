@@ -17,8 +17,6 @@ font-family: 'Oswald', sans-serif;*/
     display: inline;
 }
 
-
-
 body {
         /*background-image: url(../img/Background.jpg);*/
   background: url(../img/Background.jpg) no-repeat center center fixed; 
@@ -46,6 +44,7 @@ h1 {
 .headeri {
     background: url(../img/Header_Image.jpg);
     min-height: 448px;
+    z-index: -1;
 }
 
 .mainContent {
