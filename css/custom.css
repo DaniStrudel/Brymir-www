@@ -55,7 +55,7 @@ h1 {
 }
 
 .headeri {
-    background: url(../img/Header_Image.jpg);
+    background: url(../img/Header_Large.jpg);
     min-height: 448px;
     z-index: -1;
 }
