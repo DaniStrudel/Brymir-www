@@ -86,7 +86,8 @@ h1 {
 }
 
 .BandImage{
-   margin: 0 30px 0 30px; 
+   max-height: 500px;
+   padding: 0 30px 0 30px; 
 }
 
 
