@@ -29,7 +29,8 @@ font-family: 'Oswald', sans-serif;*/
     }
 
 .a:hover{
-    color: #FA7535;
+    color: rgba(250, 117, 53, 0.5);
+    text-decoration: none;
 }
 
 body {
