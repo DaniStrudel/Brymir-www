@@ -98,6 +98,8 @@ h1 {
 ul.rig {
     list-style: none;
     font-size: 0px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 ul.rig li {
