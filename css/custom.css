@@ -77,6 +77,13 @@ h1 {
     color: rgba(235,235,235,0.98);
 }
 
+.liveContent {
+    max-width: 900px;
+    background-color: rgba(10, 10, 10, 0.5);
+    color: rgba(235,235,235,0.98);
+    font-family: 'Oswald', sans-serif;
+}
+
 .theShadow {
     box-shadow: 0 0 15px 0 rgba(0, 0, 0, 0.7);
 }
