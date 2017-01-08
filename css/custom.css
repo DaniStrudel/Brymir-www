@@ -92,12 +92,17 @@ h1 {
 .leftMargin {
     margin-left: 30px;
 }
+
 .noPadding {
     padding: 0;
 }
 
 .BandImage {
    max-height: 550px; 
+}
+
+.LiveImage {
+    max-height: 492px;
 }
 
 .fbPushdown {
