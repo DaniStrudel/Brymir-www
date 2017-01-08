@@ -49,10 +49,6 @@ h1 {
     color: rgb(235, 235, 235);
 }
 
-.textFollow {
-    text-align: center
-}
-
 .containeri {
     /*background-color: rgba(249,175,99,0.35);*/
     background-color: rgba(1,1,1,0.45);
@@ -106,7 +102,7 @@ h1 {
 }
 
 .LiveImage {
-    max-height: 492px;
+    max-width: 900px;
 }
 
 .fbPushdown {
