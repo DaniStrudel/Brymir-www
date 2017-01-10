@@ -138,6 +138,7 @@ h1 {
 .theBottomBorder {
     border-bottom-style: solid;
     border-bottom-width: thin;
+    border-bottom-color: rgba(235,235,235,0.98);
 }
 
 .fbPushdown {
