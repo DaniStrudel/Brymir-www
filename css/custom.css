@@ -58,7 +58,7 @@ h1 {
 }
 
 .liveBGContainer {
-    background: url(../img/Live_background.jpg) no-repeat center;
+    background: url(../img/Live_background.jpg) no-repeat center bottom;
     min-height: 1000px;
     z-index: 2;
     box-shadow: 0 0 100px 80px rgba(0, 0, 0, 0.95);
