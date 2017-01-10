@@ -136,7 +136,8 @@ h1 {
 }
 
 .theBottomBorder {
-    border-bottom: thin, solid, rgba(235,235,235,0.98)
+    border-bottom-style: solid;
+    border-bottom-width: thin;
 }
 
 .fbPushdown {
