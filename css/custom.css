@@ -189,6 +189,10 @@ ul.rig li h3 {
     color: rgb(235, 235, 235)
 }
 
+ul.rig.columns-2 li {
+	width: 47.5%;
+}
+
 ul.rig.columns-3 li {
     width: 30.83%;
 }
