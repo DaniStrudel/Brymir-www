@@ -135,6 +135,10 @@ h1 {
     height: 300px;
 }
 
+.theBottomBorder {
+    border-bottom: thin, solid, rgba(235,235,235,0.98)
+}
+
 .fbPushdown {
     margin: 69px 0 0 0;
 }
