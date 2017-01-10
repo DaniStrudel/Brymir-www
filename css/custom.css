@@ -190,7 +190,7 @@ ul.rig li h3 {
 }
 
 ul.rig.columns-2 li {
-	width: 47.5%;
+	width: 47.5% 
 }
 
 ul.rig.columns-3 li {
@@ -214,7 +214,82 @@ ul.rig.columns-4 li {
         margin: 30px 0 20px;
     }
 }
-/*Image Grid Band Page */
+/*Album page lists */
+
+.albumContainer {
+    max-width: 890px;
+    height: 290px;
+    box-shadow: 0 0 30px 8px rgba(0, 0, 0, 0.7);
+    background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(250, 117, 5, 0.15));
+    padding: 0;
+    margin: 30px;
+}
+
+ul.rig1 {
+    list-style: none;
+    font-size: 0px;
+    margin-left: auto; 
+    margin-right: auto;
+}
+
+ul.rig1 li {
+    display: inline-block;
+    padding: 10px;
+    margin: 10px 0 2.5% 2.5%;
+    font-size: 16px;
+    font-size: 1rem;
+    vertical-align: top;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+}
+
+ul.rig1 li h2 {
+    font-family: 'Oswald', sans-serif;
+    font-style: normal;
+    text-align: left;
+    margin: 0 0 5px;
+    color: rgb(235, 235, 235)
+}
+
+ul.rig1 li h3 {
+    font-family: 'Oswald', sans-serif;
+    text-align: left;
+    color: rgb(235, 235, 235)
+}
+
+ul.rig1 li h4 {
+    font-family: 'Oswald', sans-serif;
+    text-align: left;
+    color: rgb(235, 235, 235)
+}
+
+ul.rig.columns-2 li {
+	width: 47.5% 
+}
+
+ul.rig.columns-3 li {
+    width: 30.83%;
+}
+
+ul.rig.columns-4 li {
+	width: 22.5%;
+}
+
+@media (max-width: 480px) {
+    ul.grid-nav li {
+        display: block;
+        margin: 30px 0 5px;
+    }
+    ul.grid-nav li a {
+        display: block;
+    }
+    ul.rig li {
+        width: 100% !important;
+        margin: 30px 0 20px;
+    }
+}
+
 /*.logo {
     width: 725px;
     height: 355px;
