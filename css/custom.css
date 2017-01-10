@@ -57,7 +57,7 @@ h3 {
 }
 .containeri {
     /*background-color: rgba(249,175,99,0.35);*/
-    background-color: rgba(1,1,1,0.45);
+    background: linear-gradient(rgba(0, 0, 0, 1),rgba(0, 0, 0, 0.😎, rgba(250, 117, 5, 0.15),rgba(0, 0, 0, 1));
     min-height: 1000px;
     z-index: 1;
     box-shadow: 0 0 100px 80px rgba(0, 0, 0, 0.95);
