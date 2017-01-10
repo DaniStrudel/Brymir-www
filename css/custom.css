@@ -115,6 +115,9 @@ h1 {
 .liveContainer {
     max-width: 890px;
     box-shadow: 0 0 30px 1px rgba(0, 0, 0, 0.7);
+    background-color: rgba(10, 10, 10, 0.5);
+    padding: 0 15px 0 35px;
+    margin: 30px;
 }
 
 .sideMargin {
