@@ -109,7 +109,12 @@ h1 {
 }
 
 .LiveImage {
-    max-width: 900px;
+    max-width: 912px;
+}
+
+.liveContainer {
+    max-width: 890px;
+    box-shadow: 0 0 30px 1px rgba(0, 0, 0, 0.7);
 }
 
 .sideMargin {
@@ -120,7 +125,7 @@ h1 {
     margin: 69px 0 0 0;
 }
 
-/* Image Grid band page */
+/* Image Grid band and live page */
 ul.rig {
     list-style: none;
     font-size: 0px;
@@ -162,6 +167,10 @@ ul.rig li h3 {
 
 ul.rig.columns-3 li {
     width: 30.83%;
+}
+
+ul.rig.columns-4 li {
+	width: 22.5%;
 }
 
 @media (max-width: 480px) {
