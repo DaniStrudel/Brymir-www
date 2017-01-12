@@ -1,11 +1,13 @@
 @import url('https://fonts.googleapis.com/css?family=Noto+Sans:700|Oxygen:700');
 @import url('https://fonts.googleapis.com/css?family=Amarante');
 @import url('https://fonts.googleapis.com/css?family=Oswald:300,400,700');
+@import url('https://fonts.googleapis.com/css?family=Cormorant+Garamond:700');
 
 /*font-family: 'Noto Sans', sans-serif;
 font-family: 'Oxygen', sans-serif;
 font-family: 'Amarante', cursive;
-font-family: 'Oswald', sans-serif;*/
+font-family: 'Oswald', sans-serif;
+font-family: 'Cormorant Garamond', serif;*/
 
 /* Header list */
 .ul {
@@ -20,10 +22,9 @@ font-family: 'Oswald', sans-serif;*/
     padding: 80px 50px 0 50px;
 }
 
-.a {font-family:'Amarante', cursive;
+.a {font-family:'Cormorant Garamond', sans-serif;
     color: rgba(10,10,10,1);
     font-size: 30px;
-    font-style: bold;
     text-shadow: 0 0 30px rgba(255, 180, 99, 1);
     text-shadow: 0 0 20px rgba(255, 180, 99, 1);
     text-decoration: none;
@@ -42,6 +43,23 @@ body {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+}
+
+/*Home Page Content*/
+
+.homePadding {
+    padding: 0 20px 0 20px;
+}
+
+.mainContent {
+    background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(250, 117, 5, 0.15));
+    color: rgba(235,235,235,0.98);
+    padding: 15px;
+    height: 1845px;
+}
+
+.homeImage {
+    float: left;
 }
 
 h1 {
@@ -77,13 +95,6 @@ h3 {
     z-index: -1;
     background-origin: content-box;
     background-repeat: no-repeat;
-}
-
-.mainContent {
-    background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(250, 117, 5, 0.15));
-    color: rgba(235,235,235,0.98);
-    padding: 15px;
-    height: 380px;
 }
 
 .socialContent {
